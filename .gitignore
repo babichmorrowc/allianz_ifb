@@ -1,5 +1,6 @@
 # Large data folders
 data/Base.csv
+data/cleaned_Base.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
