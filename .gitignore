@@ -1,11 +1,15 @@
-# Large data folders
+# Large data files
 data/Base.csv
 data/cleaned_Base.csv
+data/*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+
+# R stuff
+.Rhistory
 
 # C extensions
 *.so
